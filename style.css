@@ -1,0 +1,67 @@
+.navbar-brand 
+{
+    font-size:2em;
+    padding-left: 1em;
+}
+
+.nav-item
+{
+    padding-left: 1em;
+    font-size: 95%;
+}
+
+.navbar {
+    background-color: white;
+    border-bottom: 1px solid black;
+}
+
+
+footer
+{
+    background-color: rgb(28,73,66);
+    color: white;
+    position: fixed;
+    bottom: 0;
+    font-size: 0.8em;
+    padding: 1em 2em 1em 2em;
+}
+
+ul.nav2 
+{
+    list-style-type: none;
+    margin: 0;
+    padding: 10px; 
+}
+
+ul.nav2 li
+{
+    display: inline;
+    padding: 0 2em 0 2em;
+    font-size: 1.1em;
+}
+
+.container
+{
+    margin-top: 25px;
+}
+
+#one img 
+{
+    border: 1px solid black;
+}
+
+#two {
+    padding: 10%;
+}
+
+#two h2 {
+    font-size: 4em;
+}
+
+#section2
+{
+    background-color: rgb(37,204,156);
+    font-size: 3em;
+    padding: 2em;
+    text-align: justify;
+}
